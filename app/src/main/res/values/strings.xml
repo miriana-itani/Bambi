@@ -5,10 +5,10 @@
     <string name="sofa_living_room">Sofa and Living Room</string>
     <string name="kids_young_room">Kids and Young Room</string>
     <string name="login">Login</string>
-    <string name="location">Location</string>
-    <string name="call">Call</string>
-    <string name="website">Website</string>
-    <string name="email">Email</string>
+    <string name="location"><b>Location: </b></string>
+    <string name="call"><b>Call: </b></string>
+    <string name="website"><b>Website: </b></string>
+    <string name="email"><b>Email: </b></string>
     <string name="like">Like</string>
     <string name="phone_number_hint">Enter phone number</string>
     <string name="lets_go">Lets go</string>
@@ -20,5 +20,5 @@
     <string name="image">image_description</string>
     <string name="base_url">http://bambimobilya.net/public/api/v1/</string>
     <string name="internet_error">Please make sure you are connected to the internet</string>
-    <string name="error">An error has occured</string>
+    <string name="error">An error has occurred</string>
 </resources>
