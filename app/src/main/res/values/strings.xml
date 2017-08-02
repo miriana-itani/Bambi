@@ -17,4 +17,8 @@
     <string name="enter_code">Enter Code:</string>
     <string name="error_code">Please enter a code</string>
     <string name="please_try_again">Please try again</string>
+    <string name="image">image_description</string>
+    <string name="base_url">http://bambimobilya.net/public/api/v1/</string>
+    <string name="internet_error">Please make sure you are connected to the internet</string>
+    <string name="error">An error has occured</string>
 </resources>

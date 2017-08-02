@@ -53,12 +53,7 @@ public class RegisterActivity extends BaseActivity {
             @Override
             public void onVerificationFailed(FirebaseException e) {
                 hideProgress();
-                if (e instanceof FirebaseAuthInvalidCredentialsException) {
-
-                } else if (e instanceof FirebaseTooManyRequestsException) {
-
-                }
-                showError("Error");
+                showError(e.getMessage());
             }
 
             @Override

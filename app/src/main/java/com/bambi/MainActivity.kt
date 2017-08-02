@@ -1,18 +1,15 @@
 package com.bambi
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import com.bambi.local.Prefs
+import android.support.v7.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
-    private var goNextAct: Intent?=null;
+    private var goNextAct: Intent? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        if (Prefs.getInstance(applicationContext).login) {
-            goNextAct = Intent(applicationContext, RegisterActivity::class.java)
-        } else goNextAct = Intent(applicationContext, RegisterActivity::class.java)
+        goNextAct = Intent(applicationContext, MainPage::class.java)
         startActivity(goNextAct)
         finish()
     }
