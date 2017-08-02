@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height_edit_text">40dp</dimen>
+    <dimen name="text_size_edit_text">16sp</dimen>
+    <dimen name="text_size_text">22sp</dimen>
+    <dimen name="margin_small">10dp</dimen>
+</resources>

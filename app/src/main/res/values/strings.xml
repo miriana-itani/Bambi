@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bambi</string>
+    <string name="dinning_room">Dinning Room</string>
+    <string name="bed_room">Bed Room</string>
+    <string name="sofa_living_room">Sofa and Living Room</string>
+    <string name="kids_young_room">Kids and Young Room</string>
+    <string name="login">Login</string>
+    <string name="location">Location</string>
+    <string name="call">Call</string>
+    <string name="website">Website</string>
+    <string name="email">Email</string>
+    <string name="like">Like</string>
+    <string name="phone_number_hint">Enter phone number</string>
+    <string name="lets_go">Lets go</string>
+    <string name="phone_number_error">Please enter a phone number</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="enter_code">Enter Code:</string>
+    <string name="error_code">Please enter a code</string>
+    <string name="please_try_again">Please try again</string>
+</resources>

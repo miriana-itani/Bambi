@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "691898865434",
+    "firebase_url": "https://bambi-fd661.firebaseio.com",
+    "project_id": "bambi-fd661",
+    "storage_bucket": "bambi-fd661.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691898865434:android:f8a8def638d4e9f5",
+        "android_client_info": {
+          "package_name": "com.bambi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691898865434-8hcr0ai0h128tm53g05crpo7sss83es4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bambi",
+            "certificate_hash": "b966400099b3b02e846a8146238cb87112daf391"
+          }
+        },
+        {
+          "client_id": "691898865434-k1vr4ajqlt243485lf4bcfgkn83lrqt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJQpWch9yN2GSVO74pt3OhYYTcx9OMvW0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691898865434-diavic4k4lp56t2hj5jrgl9vm0lumbg8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iflat-apps.Bambi"
+              }
+            },
+            {
+              "client_id": "691898865434-k1vr4ajqlt243485lf4bcfgkn83lrqt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

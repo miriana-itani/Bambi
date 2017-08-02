@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height_edit_text">55dp</dimen>
+    <dimen name="text_size_edit_text">18sp</dimen>
+    <dimen name="text_size_text">26sp</dimen>
+    <dimen name="margin_small">18dp</dimen>
+</resources>

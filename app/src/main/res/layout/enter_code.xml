@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context="com.bambi.EnterCode">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_small"
+        android:text="@string/enter_code"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_size_text" />
+
+    <EditText
+        android:id="@+id/code"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_edit_text"
+        android:layout_marginEnd="@dimen/margin_small"
+        android:layout_marginStart="@dimen/margin_small"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:inputType="number"
+        android:maxLines="1"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_edit_text" />
+
+    <TextView
+        android:id="@+id/verify_code"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_edit_text"
+        android:layout_marginEnd="@dimen/margin_small"
+        android:layout_marginStart="@dimen/margin_small"
+        android:layout_marginTop="@dimen/margin_small"
+        android:background="@color/colorPrimaryDark"
+        android:gravity="center"
+        android:maxLines="1"
+        android:text="@string/lets_go"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_text" />
+
+
+</LinearLayout>
